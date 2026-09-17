@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Sanskar Edhate
 
-<!--
-**SanskarEdhate/SanskarEdhate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=SanskarEdhate&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhate&layout=compact&theme=tokyonight" />
+
+</p>
+
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskarEdhate&theme=tokyonight"/>
+</p>
+
+
+## 🛠️ Technologies
+
+- Python
+- JavaScript
+- React
+- TypeScript
+- Node.js
+- Machine Learning
+- AI
+- Cloud Computing
+
+
+## 📌 Featured Projects
+
+- Athlix AI Fitness Coach
+- Pharma Demand Simulation & Procurement System
+- SyntecxHub Backend Projects
+- AI/ML Projects
+
+
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanskarEdhate&theme=tokyo-night"/>
