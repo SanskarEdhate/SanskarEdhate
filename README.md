@@ -1,37 +1,207 @@
-![Profile Views](https://komarev.com/ghpvc/?username=SanskarEdhate&color=blue)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=200&section=header&text=Sanskar%20Edhate&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
 
-# 👋 Hi, I'm Sanskar Edhate
+<h1 align="center">
+Hi 👋 I'm Sanskar Edhate
+</h1>
+
+
+<h3 align="center">
+🤖 AI & ML Developer | Full Stack Developer | Building Intelligent Applications
+</h3>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Developer;Full+Stack+Developer;Building+AI+Powered+Applications;Data+Science+Enthusiast&center=true&width=600&height=45">
+
+<a href="https://github.com/SanskarEdhate">
+<img src="https://komarev.com/ghpvc/?username=SanskarEdhate&label=Profile%20Views&color=blue&style=flat"/>
+</a>
+
 </p>
 
 
-## 🚀 About Me
+---
 
-🎓 B.Tech Computer Engineering Student  
-🤖 Passionate about Artificial Intelligence, Machine Learning & Full Stack Development  
-💡 Building real-world AI-powered applications and automation systems  
-☁️ Exploring Cloud Computing, Generative AI, RAG Systems & AI Agents  
+# 👨‍💻 About Me
+
+
+🎓 Computer Engineering Student  
+
+🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI  
+
+🚀 Building AI-powered real-world applications  
+
+💡 Interested in:
+
+- AI Agents
+- RAG Systems
+- Computer Vision
+- Data Science
+- Cloud Computing
+
+
+---
+
+# 🛠 Tech Stack
+
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript"/>
+</p>
+
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind"/>
+</p>
+
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase"/>
+</p>
+
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
+
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode"/>
+</p>
+
+
+
+---
+
+# 🚀 Featured Projects
+
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+
+## 🏋️ Athlix AI Fitness Coach
+
+AI-powered fitness platform.
+
+Features:
+
+✅ AI Fitness Assistant  
+✅ Food Recognition  
+✅ Pose Analysis  
+✅ Workout Planning  
+
+
+<a href="https://github.com/sanskaredhate9339-blip/ATHLIX-Ai-Powered-Fitness-Coach">
+Repository →
+</a>
+
+
+</td>
+
+
+
+<td width="50%">
+
+
+## 💊 Pharma Demand System
+
+
+AI-based pharmaceutical management system.
+
+
+Features:
+
+✅ Demand Forecasting  
+✅ Inventory Optimization  
+✅ FEFO Management  
+✅ Analytics Dashboard
+
+
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+
+<td>
+
+
+## 🤖 AI / ML Projects
+
+
+Machine learning implementations:
+
+- Classification Models
+- Computer Vision
+- NLP
+- Generative AI
+
+
+</td>
+
+
+<td>
+
+
+## ⚙ Backend Development
+
+
+Backend systems:
+
+- REST APIs
+- Automation
+- Database Design
+
+
+</td>
+
+
+</tr>
+
+</table>
+
 
 
 ---
 
 # 📊 GitHub Analytics
 
+
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanskarEdhate&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhate&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SanskarEdhate&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhate&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 </p>
+
 
 
 ---
 
 # 🔥 GitHub Streak
+
 
 <p align="center">
 
@@ -40,117 +210,31 @@
 </p>
 
 
+
 ---
 
-# 🛠️ Tech Stack
+# 🏆 GitHub Trophies
 
 
-### Programming Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SanskarEdhate&theme=tokyonight&no-frame=true&column=7"/>
+
 </p>
 
 
-### Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+---
+
+# 🐍 Contribution Snake
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SanskarEdhate/SanskarEdhate/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase"/>
-</p>
-
-
-### AI / Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-</p>
-
-- Machine Learning
-- Deep Learning
-- Generative AI
-- RAG Applications
-- AI Agents
-- Computer Vision
-
-
-### Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode"/>
-</p>
-
-
----
-
-# 🚀 Featured Projects
-
-
-## 🏋️ Athlix AI Fitness Coach
-
-AI-powered fitness platform with:
-
-- AI workout assistant
-- Food recognition
-- Fitness tracking
-- Pose analysis
-- Personalized recommendations
-
-🔗 Repository:
-https://github.com/sanskaredhate9339-blip/ATHLIX-Ai-Powered-Fitness-Coach
-
-
----
-
-## 💊 Pharma Demand Simulation & Procurement System
-
-AI-based pharmaceutical inventory optimization system.
-
-Features:
-
-- Demand forecasting
-- FEFO inventory management
-- Procurement planning
-- Analytics dashboard
-
-
----
-
-## 📊 Data Analytics API
-
-Backend analytics service built using:
-
-- Node.js
-- Express
-- MongoDB
-
-
----
-
-## 🤖 AI / ML Projects
-
-Projects involving:
-
-- Classification Models
-- Computer Vision
-- NLP
-- Generative AI
-
-
----
-
-# 🏆 Achievements
-
-🚀 Hackathon Participant  
-☁️ Cloud Computing Projects  
-🤖 AI & ML Application Development  
-📸 Photography Team Member - Team Pratishruti
 
 
 ---
@@ -158,11 +242,8 @@ Projects involving:
 # 📈 Contribution Graph
 
 
-<p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanskarEdhate&theme=tokyo-night&hide_border=true"/>
 
-</p>
 
 
 ---
@@ -173,14 +254,29 @@ Projects involving:
 <p align="center">
 
 <a href="https://github.com/SanskarEdhate">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+
 </a>
 
+
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
 </a>
+
 
 </p>
 
 
-⭐ Building | Learning | Innovating with AI
+---
+
+<h3 align="center">
+
+⭐ Building AI solutions that create real-world impact
+
+</h3>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=120&section=footer"/>
