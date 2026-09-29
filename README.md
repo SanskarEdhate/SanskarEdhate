@@ -1,12 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=200&section=header&text=Sanskar%20Edhate&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
+
 <h1 align="center">
 Hi 👋 I'm Sanskar Edhate
 </h1>
 
+
 <h3 align="center">
 🤖 AI & ML Developer | Full Stack Developer | Building Intelligent Applications
 </h3>
+
 
 <p align="center">
 
@@ -16,9 +19,11 @@ Hi 👋 I'm Sanskar Edhate
 
 </p>
 
+
 ---
 
 # 👨‍💻 About Me
+
 
 🎓 Computer Engineering Student  
 
@@ -34,9 +39,11 @@ Hi 👋 I'm Sanskar Edhate
 - Data Science
 - Cloud Computing
 
+
 ---
 
 # 🛠 Tech Stack
+
 
 ### Languages
 
@@ -44,11 +51,13 @@ Hi 👋 I'm Sanskar Edhate
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript"/>
 </p>
 
+
 ### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind"/>
 </p>
+
 
 ### Backend
 
@@ -56,11 +65,13 @@ Hi 👋 I'm Sanskar Edhate
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase"/>
 </p>
 
+
 ### AI / ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
+
 
 ### Tools
 
@@ -68,15 +79,19 @@ Hi 👋 I'm Sanskar Edhate
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode"/>
 </p>
 
+
+
 ---
 
 # 🚀 Featured Projects
+
 
 <table>
 
 <tr>
 
 <td width="50%">
+
 
 ## 🏋️ Athlix AI Fitness Coach
 
@@ -89,36 +104,48 @@ Features:
 ✅ Pose Analysis  
 ✅ Workout Planning  
 
+
 <a href="https://github.com/sanskaredhate9339-blip/ATHLIX-Ai-Powered-Fitness-Coach">
 Repository →
 </a>
 
+
 </td>
+
+
 
 <td width="50%">
 
+
 ## 💊 Pharma Demand System
 
-AI-powered pharmaceutical management system.
+
+AI-based pharmaceutical management system.
+
 
 Features:
 
 ✅ Demand Forecasting  
 ✅ Inventory Optimization  
 ✅ FEFO Management  
-✅ EOQ Recommendations  
-✅ Profitability Analysis  
-✅ Analytics Dashboard  
+✅ Analytics Dashboard
+
+
 
 </td>
 
 </tr>
 
+
+
 <tr>
+
 
 <td>
 
+
 ## 🤖 AI / ML Projects
+
 
 Machine learning implementations:
 
@@ -126,44 +153,55 @@ Machine learning implementations:
 - Computer Vision
 - NLP
 - Generative AI
-- AI Agents
+
 
 </td>
 
+
 <td>
 
+
 ## ⚙ Backend Development
+
 
 Backend systems:
 
 - REST APIs
 - Automation
 - Database Design
-- Cloud Integration
+
 
 </td>
+
 
 </tr>
 
 </table>
 
+
+
 ---
 
 # 📊 GitHub Analytics
 
+
 <p align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=SanskarEdhate&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SanskarEdhate&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhate&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 </p>
+
+
 
 ---
 
 # 🔥 GitHub Streak
+
 
 <p align="center">
 
@@ -171,9 +209,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhat
 
 </p>
 
+
+
 ---
 
 # 🏆 GitHub Trophies
+
 
 <p align="center">
 
@@ -181,9 +222,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhat
 
 </p>
 
+
+
 ---
 
 # 🐍 Contribution Snake
+
 
 <p align="center">
 
@@ -191,19 +235,21 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhat
 
 </p>
 
+
+
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanskarEdhate&theme=tokyo-night&hide_border=true"/>
 
-</p>
+
 
 ---
 
 # 🤝 Connect With Me
+
 
 <p align="center">
 
@@ -213,19 +259,24 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhat
 
 </a>
 
+
 <a href="https://linkedin.com">
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
+
 </p>
+
 
 ---
 
 <h3 align="center">
 
 ⭐ Building AI solutions that create real-world impact
+
 </h3>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=120&section=footer"/>
