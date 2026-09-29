@@ -62,7 +62,7 @@ Hi 👋 I'm Sanskar Edhate
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
 
-### Tools & Cloud
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode"/>
@@ -78,11 +78,11 @@ Hi 👋 I'm Sanskar Edhate
 
 <td width="50%">
 
-<h2>🏋️ Athlix AI Fitness Coach</h2>
+## 🏋️ Athlix AI Fitness Coach
 
 AI-powered fitness platform.
 
-<b>Features:</b>
+Features:
 
 ✅ AI Fitness Assistant  
 ✅ Food Recognition  
@@ -97,11 +97,11 @@ Repository →
 
 <td width="50%">
 
-<h2>💊 Pharma Demand System</h2>
+## 💊 Pharma Demand System
 
-AI-powered pharmaceutical procurement and inventory optimization system.
+AI-powered pharmaceutical management system.
 
-<b>Features:</b>
+Features:
 
 ✅ Demand Forecasting  
 ✅ Inventory Optimization  
@@ -118,7 +118,7 @@ AI-powered pharmaceutical procurement and inventory optimization system.
 
 <td>
 
-<h2>🤖 AI / ML Projects</h2>
+## 🤖 AI / ML Projects
 
 Machine learning implementations:
 
@@ -132,7 +132,7 @@ Machine learning implementations:
 
 <td>
 
-<h2>⚙ Backend Development</h2>
+## ⚙ Backend Development
 
 Backend systems:
 
@@ -154,10 +154,10 @@ Backend systems:
 <p align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=SanskarEdhate&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+src="https://github-readme-stats.vercel.app/api?username=SanskarEdhate&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
@@ -167,9 +167,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhat
 
 <p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=SanskarEdhate&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-/>
+<img src="https://streak-stats.demolab.com?user=SanskarEdhate&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -179,9 +177,7 @@ src="https://streak-stats.demolab.com?user=SanskarEdhate&theme=tokyonight&hide_b
 
 <p align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=SanskarEdhate&theme=tokyonight&no-frame=true&no-bg=true&column=7"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=SanskarEdhate&theme=tokyonight&no-frame=true&column=7"/>
 
 </p>
 
@@ -191,9 +187,7 @@ src="https://github-profile-trophy.vercel.app/?username=SanskarEdhate&theme=toky
 
 <p align="center">
 
-<img
-src="https://raw.githubusercontent.com/SanskarEdhate/SanskarEdhate/output/github-contribution-grid-snake.svg"
-/>
+<img src="https://raw.githubusercontent.com/SanskarEdhate/SanskarEdhate/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -203,21 +197,7 @@ src="https://raw.githubusercontent.com/SanskarEdhate/SanskarEdhate/output/github
 
 <p align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=SanskarEdhate&theme=tokyo-night&hide_border=true&area=true"
-/>
-
-</p>
-
----
-
-# 📌 GitHub Activity
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=SanskarEdhate&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanskarEdhate&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -228,11 +208,15 @@ src="https://github-readme-stats.vercel.app/api?username=SanskarEdhate&show_icon
 <p align="center">
 
 <a href="https://github.com/SanskarEdhate">
+
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin-username">
+<a href="https://linkedin.com">
+
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
 </p>
