@@ -205,7 +205,7 @@ Backend systems:
 <p align="center">
 
 <img
-  src="https://streak-stats.demolab.com/?user=SanskarEdhate&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+  src="https://streak-stats.demolab.com/?user=SanskarEdhate&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&timezone=Asia%2FKolkata"
   alt="GitHub Streak"
 />
 
@@ -219,7 +219,7 @@ Backend systems:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SanskarEdhate&theme=tokyonight&no-frame=true&column=7"/>
+<img src="https://github-profile-trophies.vercel.app/?username=SanskarEdhate&theme=tokyonight&no-frame=true&column=7"/>
 
 </p>
 
@@ -232,7 +232,11 @@ Backend systems:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/SanskarEdhate/SanskarEdhate/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanskarEdhate/SanskarEdhate/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanskarEdhate/SanskarEdhate/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/SanskarEdhate/SanskarEdhate/output/github-contribution-grid-snake.svg">
+</picture>
 
 </p>
 
@@ -242,8 +246,11 @@ Backend systems:
 
 # 📈 Contribution Graph
 
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanskarEdhate&theme=tokyo-night&hide_border=true"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=SanskarEdhate&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 
 
