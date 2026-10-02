@@ -205,7 +205,7 @@ Backend systems:
 <p align="center">
 
 <img
-  src="https://streak-stats.demolab.com/?user=SanskarEdhate&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&timezone=Asia%2FKolkata"
+  src="https://raw.githubusercontent.com/SanskarEdhate/SanskarEdhate/main/profile/streak.svg"
   alt="GitHub Streak"
 />
 
