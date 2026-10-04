@@ -187,12 +187,9 @@ Backend systems:
 
 <p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=SanskarEdhate&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=prs,issues&hide_rank=true" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SanskarEdhate&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhate&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhate&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 </p>
 
