@@ -187,7 +187,7 @@ Backend systems:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanskarEdhate&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=prs,issues&hide_rank=true" alt="GitHub Stats"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=70A5FD&background=1A1B27&center=true&vCenter=true&width=360&height=140&lines=%F0%9F%A4%96+AI+%26+ML+Developer;%F0%9F%92%BB+Full+Stack+Engineer;%F0%9F%9A%80+Building+Intelligent+Apps;%F0%9F%A7%A0+Exploring+Agents+%26+RAG;%E2%9A%A1+Passionate+Problem+Solver" alt="Dynamic Typing Badge"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhate&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
