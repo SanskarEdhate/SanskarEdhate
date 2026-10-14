@@ -14,7 +14,7 @@ Hi 👋 I'm Sanskar Edhate
 <p align="center">
 
 <a href="https://github.com/SanskarEdhate">
-<img src="https://komarev.com/ghpvc/?username=SanskarEdhate&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://views.igorkowalczyk.dev/api/badge/SanskarEdhate?style=flat&color=06B6D4&label=Profile%20Views" alt="Profile Views"/>
 </a>
 
 </p>
