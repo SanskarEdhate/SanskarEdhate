@@ -8,7 +8,7 @@
   aria-labelledby="descId"
 >
   <title id="titleId">Sanskar Edhate's GitHub Stats, Rank: A+</title>
-  <desc id="descId">Total Contributions: 347, Total Commits: 342, Current Streak: 10 days, Longest Streak: 13 days, Rank: A+</desc>
+  <desc id="descId">Total Contributions: 347, Total Commits: 342, Current Streak: 0 days, Longest Streak: 13 days, Rank: A+</desc>
   <style>
     .header {
       font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -118,7 +118,7 @@
           <path fill-rule="evenodd" d="M9.504.43a1.5 1.5 0 011.264.508l2.75 3a1.5 1.5 0 01.378 1.134l-.844 5.064a3.75 3.75 0 01-1.636 2.593l-1.39.927a3.75 3.75 0 01-4.156-.002l-1.39-.927a3.75 3.75 0 01-1.636-2.593L1.85 5.072a1.5 1.5 0 01.378-1.134l2.75-3A1.5 1.5 0 016.242.43l3.262.001zM8 3.5a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3.5zm0 6.5a1 1 0 100 2 1 1 0 000-2z"/>
         </svg>
         <text class="stat bold" x="25" y="12.5">Current Streak:</text>
-        <text class="stat bold" x="220" y="12.5" fill="#70a5fd">10 Days 🔥</text>
+        <text class="stat bold" x="220" y="12.5" fill="#70a5fd">0 Days 🔥</text>
       </g>
 
       <!-- Longest Streak -->
