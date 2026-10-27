@@ -25,7 +25,7 @@ Hi 👋 I'm Sanskar Edhate
 # 👨‍💻 About Me
 
 
-🎓 Computer Engineering Student  
+🎓 Computer Science  Engineering Student  
 
 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI  
 
