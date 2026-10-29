@@ -88,89 +88,28 @@ Hi 👋 I'm Sanskar Edhate
 
 <tr>
 
-<td width="50%">
+<td width="100%">
 
 
-## 🏋️ Athlix AI Fitness Coach
+## 🏦 BankerEye
 
-AI-powered fitness platform.
+AI-powered banking intelligence platform for fraud detection, risk analysis, and financial insights.
 
 Features:
 
-✅ AI Fitness Assistant  
-✅ Food Recognition  
-✅ Pose Analysis  
-✅ Workout Planning  
+✅ Fraud Detection & Alerts  
+✅ Transaction Risk Scoring  
+✅ Customer Financial Insights  
+✅ Real-time Analytics Dashboard  
+✅ ML-based Anomaly Detection  
 
 
-<a href="https://github.com/sanskaredhate9339-blip/ATHLIX-Ai-Powered-Fitness-Coach">
+<a href="https://github.com/SanskarEdhate/BankerEye">
 Repository →
 </a>
 
 
 </td>
-
-
-
-<td width="50%">
-
-
-## 💊 Pharma Demand System
-
-
-AI-based pharmaceutical management system.
-
-
-Features:
-
-✅ Demand Forecasting  
-✅ Inventory Optimization  
-✅ FEFO Management  
-✅ Analytics Dashboard
-
-
-
-</td>
-
-</tr>
-
-
-
-<tr>
-
-
-<td>
-
-
-## 🤖 AI / ML Projects
-
-
-Machine learning implementations:
-
-- Classification Models
-- Computer Vision
-- NLP
-- Generative AI
-
-
-</td>
-
-
-<td>
-
-
-## ⚙ Backend Development
-
-
-Backend systems:
-
-- REST APIs
-- Automation
-- Database Design
-
-
-</td>
-
 
 </tr>
 
