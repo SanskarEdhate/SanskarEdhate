@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=200&section=header&text=Sanskar%20Edhate&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=200&section=header&text=Sanskar%20Edhate&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
 
 <h1 align="center">
@@ -13,9 +13,7 @@ Hi 👋 I'm Sanskar Edhate
 
 <p align="center">
 
-<a href="https://github.com/SanskarEdhate">
-<img src="https://views.igorkowalczyk.dev/api/badge/SanskarEdhate?style=flat&color=06B6D4&label=Profile%20Views" alt="Profile Views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=SanskarEdhate&style=flat-square&color=06B6D4&label=Profile+Views" alt="Profile Views"/>
 
 </p>
 
