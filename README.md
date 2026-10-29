@@ -189,7 +189,7 @@ Backend systems:
 <img height="180" src="https://raw.githubusercontent.com/SanskarEdhate/SanskarEdhate/main/profile/stats.svg" alt="Sanskar's GitHub Stats"/>
 
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhate&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarEdhate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages"/>
 
 
 </p>
